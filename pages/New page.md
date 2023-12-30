@@ -1,5 +1,6 @@
-public:: True
+public:: true
 date:: 2023-12-30
+tags:: [[First tag]], [[Second tag]]
 
 - Test test
 - Second bullet
