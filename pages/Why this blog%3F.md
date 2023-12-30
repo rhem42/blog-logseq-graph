@@ -1,4 +1,4 @@
-published:: True
+public:: true
 date:: 2023-12-30
 
 - Test test
